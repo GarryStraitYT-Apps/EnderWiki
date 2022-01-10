@@ -1,3 +1,3 @@
 # EnderWiki
-Wiki for EnderOS
-you can talk and ask in here
+Wiki for EnderOS,
+you can talk and ask in here.
