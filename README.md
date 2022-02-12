@@ -1,5 +1,5 @@
 # EnderWiki
-Wiki for EnderOS.\
+Wiki for ProtonOS.\
 you can talk and ask in here.\
 Contributors:
 + Glowman554#4152
