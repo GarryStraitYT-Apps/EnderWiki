@@ -9,3 +9,7 @@ Contributors:
 + GarryStraitYT#7914
 + pitust#8711
 + VeryHardBit#1596
+
+Come chat with us @ https://discord.gg/ts3QgRmjtc
+
++ This software is still being tested, therefor it is "Alpha-Quality" Software. Please test in a Virtual Environment before actually installing i!
